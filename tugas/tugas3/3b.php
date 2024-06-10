@@ -13,3 +13,4 @@ function urutanAngka ($angka) {
 }
 
 echo urutanAngka(5);
+$array_associative = array("nama" => "John", "usia" => 30, "kota" => "Jakarta");
